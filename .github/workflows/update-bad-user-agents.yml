@@ -16,7 +16,6 @@ jobs:
 
       - uses: astral-sh/setup-uv@v1
         with:
-          version: "latest"
           enable-cache: true
 
       - run: uv run nginx-snippet-generator.py
