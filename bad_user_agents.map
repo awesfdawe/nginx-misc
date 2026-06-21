@@ -132,6 +132,7 @@
 ~*cosmos 1;
 ~*cotoyogi 1;
 ~*craftbot 1;
+~*cragcrawler 1;
 ~*crawl\.sogou\.com 1;
 ~*crawl4ai 1;
 ~*crawler\.feedback 1;
@@ -225,6 +226,7 @@
 ~*g\-i\-g\-a\-b\-o\-t 1;
 ~*galaxybot 1;
 ~*geedoproductsearch 1;
+~*geisthaus 1;
 ~*gemini 1;
 ~*genieo 1;
 ~*germcrawler 1;
@@ -319,6 +321,7 @@
 ~*kenjin 1;
 ~*keybot 1;
 ~*keyword 1;
+~*kimi\-user 1;
 ~*\bkinza 1;
 ~*klaviyoaibot 1;
 ~*kozmosbot 1;
@@ -508,6 +511,7 @@
 ~*pycurl 1;
 ~*qualifiedbot 1;
 ~*qualysguard 1;
+~*querit 1;
 ~*queryn 1;
 ~*quick\-crawler 1;
 ~*quillbot 1;
@@ -671,6 +675,7 @@
 ~*upflow 1;
 ~*urly\ warning 1;
 ~*urly\.warning 1;
+~*\buseai 1;
 ~*\bv\-bot 1;
 ~*vacuum 1;
 ~*vagabondo 1;
