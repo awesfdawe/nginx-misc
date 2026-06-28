@@ -1,4 +1,4 @@
-~*01h4x\.com 1;
+~*1h4x\\\.com 1;
 ~*360spider 1;
 ~*404checker 1;
 ~*404enemy 1;
@@ -21,7 +21,7 @@
 ~*alexibot 1;
 ~*alittle 1;
 ~*aliyun 1;
-~*allenai\.org 1;
+~*allenai\\\.org 1;
 ~*alligator 1;
 ~*allsubmitter 1;
 ~*alphabot 1;
@@ -92,7 +92,7 @@
 ~*bunnyslippers 1;
 ~*buzzsumo 1;
 ~*bytespider 1;
-~*cah\.io\.community 1;
+~*cah\\\.io\\\.community 1;
 ~*calculon 1;
 ~*catexplorador 1;
 ~*cazoodlebot 1;
@@ -102,7 +102,7 @@
 ~*channel3bot 1;
 ~*chatglm 1;
 ~*chatgpt 1;
-~*check1\.exe 1;
+~*check1\\\.exe 1;
 ~*cheesebot 1;
 ~*cherrypicker 1;
 ~*cheteam 1;
@@ -133,10 +133,10 @@
 ~*cotoyogi 1;
 ~*craftbot 1;
 ~*cragcrawler 1;
-~*crawl\.sogou\.com 1;
 ~*crawl4ai 1;
-~*crawler\.feedback 1;
+~*crawl\\\.sogou\.com 1;
 ~*crawler4j 1;
+~*crawler\\\.feedback 1;
 ~*crawling 1;
 ~*crawlspace 1;
 ~*crazywebcrawler 1;
@@ -144,11 +144,12 @@
 ~*crunchbot 1;
 ~*cshttp 1;
 ~*curious 1;
+~*cursor 1;
 ~*\bcusto 1;
 ~*cyotekwebcopy 1;
 ~*databasedrivermysqli 1;
 ~*datacha0s 1;
-~*dataforseo\.com 1;
+~*dataforseo\\\.com 1;
 ~*dataforseobot 1;
 ~*dataprovider 1;
 ~*datenbank 1;
@@ -279,7 +280,7 @@
 ~*ilsebot 1;
 ~*image\ fetch 1;
 ~*image\ sucker 1;
-~*imagesift\.com 1;
+~*imagesift\\\.com 1;
 ~*imagesiftbot 1;
 ~*imagespider 1;
 ~*img2dataset 1;
@@ -297,7 +298,7 @@
 ~*\biria 1;
 ~*irlbot 1;
 ~*ironwasp 1;
-~*isitwp\.com 1;
+~*isitwp\\\.com 1;
 ~*iskanie 1;
 ~*isscyberriskcrawler 1;
 ~*istellabot 1;
@@ -342,6 +343,7 @@
 ~*lfimap 1;
 ~*lfisuite 1;
 ~*\blftp 1;
+~*libredtail 1;
 ~*libweb 1;
 ~*libwhisker 1;
 ~*liebaofast 1;
@@ -454,11 +456,13 @@
 ~*oai\-searchbot 1;
 ~*\bobot 1;
 ~*octopus 1;
+~*\bodin 1;
 ~*offline 1;
 ~*omgili 1;
 ~*oncrawl 1;
 ~*openai 1;
 ~*opencode 1;
+~*opendirme 1;
 ~*openfind 1;
 ~*openlinkprofiler 1;
 ~*openvas 1;
@@ -534,13 +538,13 @@
 ~*rocketcrawler 1;
 ~*rogerbot 1;
 ~*rssingbot 1;
-~*s1z\.ru 1;
+~*s1z\\\.ru 1;
 ~*salesintelligent 1;
-~*satoristudio\.net 1;
+~*satoristudio\\\.net 1;
 ~*sbider 1;
 ~*sbintuitionsbot 1;
 ~*scalaj 1;
-~*scan\.lol 1;
+~*scan\\\.lol 1;
 ~*scanalert 1;
 ~*scanbot 1;
 ~*scoutjet 1;
@@ -580,7 +584,7 @@
 ~*site\ sucker 1;
 ~*siteauditbot 1;
 ~*sitebeam 1;
-~*sitechecker\.pro 1;
+~*sitechecker\\\.pro 1;
 ~*sitecheckerbotcrawler 1;
 ~*siteexplorer 1;
 ~*siteimprove 1;
@@ -591,7 +595,7 @@
 ~*sitevigil 1;
 ~*skipfish 1;
 ~*slysearch 1;
-~*smart\-seo\-tools\.sbs 1;
+~*smart\-seo\-tools\\\.sbs 1;
 ~*smartdownload 1;
 ~*smartseo 1;
 ~*smtbot 1;
@@ -653,6 +657,7 @@
 ~*\btinja 1;
 ~*tinytestbot 1;
 ~*\btitan 1;
+~*tlm\-audit\-scanner 1;
 ~*\btmp 1;
 ~*\btoata 1;
 ~*toweyabot 1;
@@ -689,7 +694,7 @@
 ~*voideye 1;
 ~*\bvoil 1;
 ~*voltron 1;
-~*voyagerx\.com 1;
+~*voyagerx\\\.com 1;
 ~*w3af\.org 1;
 ~*wallpapers 1;
 ~*wapiti 1;
@@ -720,7 +725,7 @@
 ~*webmasterworldforumbot 1;
 ~*webmeup 1;
 ~*webpix 1;
-~*webpros\.com 1;
+~*webpros\\\.com 1;
 ~*webprosbot 1;
 ~*webreaper 1;
 ~*websauger 1;
@@ -737,7 +742,7 @@
 ~*\bwhack 1;
 ~*whatwaf 1;
 ~*whatweb 1;
-~*who\.is 1;
+~*who\\\.is 1;
 ~*\bwidow 1;
 ~*winhttrack 1;
 ~*wiseguys 1;
@@ -758,7 +763,7 @@
 ~*x22mozilla 1;
 ~*xaldon 1;
 ~*\bxenu 1;
-~*xpymep1\.exe 1;
+~*xpymep1\\\.exe 1;
 ~*\bxsser 1;
 ~*xsstrike 1;
 ~*\byak 1;
