@@ -619,6 +619,7 @@
 ~*spinn3r 1;
 ~*splitsignalbot 1;
 ~*sputnikbot 1;
+~*spy4x\-domain\-scanner 1;
 ~*\bspyfu 1;
 ~*sqlmap 1;
 ~*sqlninja 1;
@@ -661,6 +662,7 @@
 ~*tlm\-audit\-scanner 1;
 ~*\btmp 1;
 ~*\btoata 1;
+~*tongyibot 1;
 ~*toweyabot 1;
 ~*tplmap 1;
 ~*tracemyfile 1;
@@ -770,6 +772,7 @@
 ~*\byak 1;
 ~*yandexadditional 1;
 ~*yeswehack 1;
+~*yiyanbot 1;
 ~*youbot 1;
 ~*youdaobot 1;
 ~*\bzade 1;
