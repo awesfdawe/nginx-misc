@@ -273,7 +273,6 @@
 ~*iaskbot 1;
 ~*iaskspider 1;
 ~*\biblog 1;
-~*iboubot 1;
 ~*icc\-crawler 1;
 ~*id\-search 1;
 ~*\bidbot 1;
@@ -754,6 +753,7 @@
 ~*wonderbot 1;
 ~*woobot 1;
 ~*wotbox 1;
+~*wp2shell 1;
 ~*\bwpbot 1;
 ~*wpprobe 1;
 ~*wprecon 1;
