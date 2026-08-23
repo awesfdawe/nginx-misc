@@ -199,6 +199,7 @@
 ~*everyfeed 1;
 ~*\bevil 1;
 ~*exabot 1;
+~*exasearchbot 1;
 ~*express 1;
 ~*extlinksbot 1;
 ~*extractor 1;
@@ -347,6 +348,7 @@
 ~*libweb 1;
 ~*libwhisker 1;
 ~*liebaofast 1;
+~*lightpanda 1;
 ~*lightspeedsystems 1;
 ~*\blikse 1;
 ~*linerbot 1;
@@ -532,6 +534,7 @@
 ~*rebelmouse 1;
 ~*recorder 1;
 ~*redesscrapy 1;
+~*reflectionbot 1;
 ~*\breget 1;
 ~*repomonkey 1;
 ~*ripper 1;
