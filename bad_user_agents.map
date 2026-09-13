@@ -178,6 +178,7 @@
 ~*domcopbot 1;
 ~*dotbot 1;
 ~*dotdotpwn 1;
+~*doubaobot 1;
 ~*download 1;
 ~*dragonfly 1;
 ~*\bdrip 1;
@@ -195,6 +196,7 @@
 ~*eirgrabber 1;
 ~*email\ siphon 1;
 ~*email\ wolf 1;
+~*erniebot 1;
 ~*erocrawler 1;
 ~*evc\-batch 1;
 ~*everyfeed 1;
@@ -324,7 +326,9 @@
 ~*kenjin 1;
 ~*keybot 1;
 ~*keyword 1;
+~*kimi\-searchbot 1;
 ~*kimi\-user 1;
+~*kimibot 1;
 ~*\bkinza 1;
 ~*klaviyoaibot 1;
 ~*kozmosbot 1;
@@ -457,6 +461,7 @@
 ~*\bnpbot 1;
 ~*nuclei 1;
 ~*\bnutch 1;
+~*oai\-adsbot 1;
 ~*oai\-searchbot 1;
 ~*\bobot 1;
 ~*octopus 1;
@@ -523,6 +528,7 @@
 ~*queryn 1;
 ~*quick\-crawler 1;
 ~*quillbot 1;
+~*qwenbot 1;
 ~*rainbot 1;
 ~*rankactive 1;
 ~*rankflex 1;
