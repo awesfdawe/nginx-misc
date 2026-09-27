@@ -11,6 +11,7 @@
 ~*adscanner 1;
 ~*adstxtcrawlertp 1;
 ~*afd\-verbotsverfahren 1;
+~*agentdatabot 1;
 ~*agenttimes 1;
 ~*ahrefsbot 1;
 ~*ai2bot 1;
@@ -72,6 +73,7 @@
 ~*bigfoot 1;
 ~*bigsur\.ai 1;
 ~*bitacle 1;
+~*bixelbot 1;
 ~*black\ hole 1;
 ~*blackboard 1;
 ~*blackwidow 1;
@@ -326,6 +328,7 @@
 ~*kenjin 1;
 ~*keybot 1;
 ~*keyword 1;
+~*kimi\-agent 1;
 ~*kimi\-searchbot 1;
 ~*kimi\-user 1;
 ~*kimibot 1;
@@ -522,6 +525,7 @@
 ~*\bpump 1;
 ~*pxbroker 1;
 ~*pycurl 1;
+~*qodercli 1;
 ~*qualifiedbot 1;
 ~*qualysguard 1;
 ~*querit 1;
