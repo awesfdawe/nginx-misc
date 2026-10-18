@@ -259,6 +259,8 @@
 ~*graphql 1;
 ~*graphw00f 1;
 ~*gridbot 1;
+~*grokappandroid 1;
+~*grokbot 1;
 ~*gt::www 1;
 ~*haansoft 1;
 ~*haosouspider 1;
@@ -275,6 +277,7 @@
 ~*http::lite 1;
 ~*httrack 1;
 ~*humanlinks 1;
+~*hunyuan 1;
 ~*hybridbot 1;
 ~*iaskbot 1;
 ~*iaskspider 1;
@@ -417,6 +420,7 @@
 ~*mojeek 1;
 ~*mojolicious 1;
 ~*molokaibot 1;
+~*moonshotbot 1;
 ~*morfeus 1;
 ~*mozlila 1;
 ~*mqqbrowser 1;
@@ -433,6 +437,7 @@
 ~*name\ intelligence 1;
 ~*nameprotect 1;
 ~*navroad 1;
+~*\bnbot 1;
 ~*nearsite 1;
 ~*needle 1;
 ~*nessus 1;
@@ -780,6 +785,7 @@
 ~*wwwoffle 1;
 ~*x09mozilla 1;
 ~*x22mozilla 1;
+~*xai\-grok 1;
 ~*xaldon 1;
 ~*\bxenu 1;
 ~*xpymep1\\\.exe 1;
@@ -788,6 +794,7 @@
 ~*\byak 1;
 ~*yandexadditional 1;
 ~*yeswehack 1;
+~*\byibot 1;
 ~*yiyanbot 1;
 ~*youbot 1;
 ~*youdaobot 1;
