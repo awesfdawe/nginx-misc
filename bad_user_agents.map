@@ -13,6 +13,7 @@
 ~*afd\-verbotsverfahren 1;
 ~*agentdatabot 1;
 ~*agenttimes 1;
+~*agi\ agent 1;
 ~*ahrefsbot 1;
 ~*ai2bot 1;
 ~*\baibot 1;
@@ -96,6 +97,7 @@
 ~*bytespider 1;
 ~*cah\\\.io\\\.community 1;
 ~*calculon 1;
+~*cartai 1;
 ~*catexplorador 1;
 ~*cazoodlebot 1;
 ~*\bccbot 1;
@@ -114,6 +116,7 @@
 ~*claritybot 1;
 ~*clark\-crawler 1;
 ~*claude 1;
+~*cledarabot 1;
 ~*cliqzbot 1;
 ~*cloud\ mapping 1;
 ~*cloudflare 1;
@@ -178,8 +181,7 @@
 ~*domaincrawler 1;
 ~*domains 1;
 ~*domcopbot 1;
-~*dotbot 1;
-~*dotdotpwn 1;
+~*\bdot 1;
 ~*doubaobot 1;
 ~*download 1;
 ~*dragonfly 1;
@@ -196,6 +198,7 @@
 ~*echoboxbot 1;
 ~*\becxi 1;
 ~*eirgrabber 1;
+~*elevenlabsbot 1;
 ~*email\ siphon 1;
 ~*email\ wolf 1;
 ~*erniebot 1;
@@ -205,6 +208,7 @@
 ~*\bevil 1;
 ~*exabot 1;
 ~*exasearchbot 1;
+~*exauser 1;
 ~*express 1;
 ~*extlinksbot 1;
 ~*extractor 1;
@@ -259,11 +263,13 @@
 ~*graphql 1;
 ~*graphw00f 1;
 ~*gridbot 1;
+~*grok\ bot 1;
 ~*grokappandroid 1;
 ~*grokbot 1;
 ~*gt::www 1;
 ~*haansoft 1;
 ~*haosouspider 1;
+~*harkbot 1;
 ~*harvest 1;
 ~*\bhavij 1;
 ~*headmasterseo 1;
@@ -300,6 +306,7 @@
 ~*infotekies 1;
 ~*infrasec 1;
 ~*instabid 1;
+~*instinct 1;
 ~*intelliseek 1;
 ~*interget 1;
 ~*internet 1;
@@ -430,6 +437,7 @@
 ~*msrabot 1;
 ~*mtrobot 1;
 ~*muhstik 1;
+~*\bmuse 1;
 ~*musobot 1;
 ~*mycentralaiscraperbot 1;
 ~*n\-stalker 1;
@@ -500,12 +508,14 @@
 ~*panscient 1;
 ~*papa\ foto 1;
 ~*\bpavuk 1;
+~*payhawk 1;
 ~*pcbrowser 1;
 ~*pecl::http 1;
 ~*peoplepal 1;
 ~*perplexity 1;
 ~*petalbot 1;
 ~*phindbot 1;
+~*php2shell 1;
 ~*phpcrawl 1;
 ~*pi\-monster 1;
 ~*picscout 1;
