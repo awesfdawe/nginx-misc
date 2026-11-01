@@ -199,6 +199,7 @@
 ~*\becxi 1;
 ~*eirgrabber 1;
 ~*elevenlabsbot 1;
+~*elevenlabscrawler 1;
 ~*email\ siphon 1;
 ~*email\ wolf 1;
 ~*erniebot 1;
@@ -583,6 +584,7 @@
 ~*screaming 1;
 ~*screenerbot 1;
 ~*screpybot 1;
+~*scrybot 1;
 ~*searchestate 1;
 ~*searchmetricsbot 1;
 ~*sebot\-wa 1;
