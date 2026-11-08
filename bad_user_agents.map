@@ -3,6 +3,7 @@
 ~*404checker 1;
 ~*404enemy 1;
 ~*80legs 1;
+~*__usage_ai\-training 1;
 ~*abonti 1;
 ~*aboundex 1;
 ~*acunetix 1;
@@ -112,7 +113,6 @@
 ~*cheteam 1;
 ~*chinaclaw 1;
 ~*chlooe 1;
-~*citoid 1;
 ~*claritybot 1;
 ~*clark\-crawler 1;
 ~*claude 1;
