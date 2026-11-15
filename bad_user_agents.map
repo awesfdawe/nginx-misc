@@ -269,6 +269,7 @@
 ~*grokbot 1;
 ~*gt::www 1;
 ~*haansoft 1;
+~*haiku\-searchbot 1;
 ~*haosouspider 1;
 ~*harkbot 1;
 ~*harvest 1;
@@ -371,6 +372,7 @@
 ~*lightpanda 1;
 ~*lightspeedsystems 1;
 ~*\blikse 1;
+~*liner\-user 1;
 ~*linerbot 1;
 ~*linguee 1;
 ~*linkbot 1;
@@ -421,6 +423,7 @@
 ~*midown 1;
 ~*miixpc 1;
 ~*minefield 1;
+~*minimaxagent 1;
 ~*mister 1;
 ~*mistralai 1;
 ~*mj12bot 1;
